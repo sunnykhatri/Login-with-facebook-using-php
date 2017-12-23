@@ -12,7 +12,7 @@ For access graph api we need to create developer account in <a href="https://dev
 </li><li>On Setting Page you have to provide some necessary information like app domain and site url.
 </li><li><b>App Domain :</b> If you want to work on localhost server then you can specify localhost otherwise you can specify domain name of your site.
 </li><li><b>Site URL :</b> Set the Site URL where your site is located.
-</li><li>Now your facebook app creation is completed it should look something like below image.</li>
+</li><li>Now your facebook app creation is completed .</li>
 </ol>
 
 <h4>Visit <a href="www.codecastra.com">www.codecastra.com</a>  to get full details on how to create login with facebook using php</h4>

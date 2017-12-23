@@ -1,6 +1,8 @@
 # Login with facebook using php Codecastra
 This repository contains the open source PHP SDK that allows you to authenticate the Facebook Platform from your PHP app.
 
+Visit www.codecastra.com to get full details on how to create login with facebook using php 
+
 <img src="https://i2.wp.com/www.codecastra.com/wp-content/uploads/2017/08/fb_banner.png?w=800" alt="Login with facebook using php" />
 
 <h3>Steps to create facebook application</h3>
